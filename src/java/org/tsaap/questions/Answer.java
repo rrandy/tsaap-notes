@@ -17,7 +17,7 @@
 package org.tsaap.questions;
 
 /**
- * @author franck Silvestre
+ * @author franck Silvestre //
  */
 public interface Answer {
 
